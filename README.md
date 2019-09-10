@@ -1,14 +1,6 @@
  For current apikey applications and modifications, please follow the "Account - API Management" page.
  
  Docs of BitgetLimited: [wiki](https://github.com/BitgetLimited/API_Docs_en/wiki)
- 
- # WebSocket API（Market&Trade）<br>
- 
- * [WebSocket API Introduction](https://github.com/BitgetLimited/API_Docs_en/wiki/WS_introduction)
- * [Request process](https://github.com/BitgetLimited/API_Docs_en/wiki/WS_request)
- * [API Reference](https://github.com/BitgetLimited/API_Docs_en/wiki/WS_api_reference)
- * [Error code](https://github.com/BitgetLimited/API_Docs_en/wiki/WS_error_code)
- * [Example](https://github.com/BitgetLimited?tab=repositories)
 
  # REST API(Market & Trade) <br>
  >  **Suitable for BitGet stations站**<br>
