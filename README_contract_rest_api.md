@@ -8,8 +8,7 @@ Please refer the documents of BitgetLimited
 
 >  **Applicable for BitGet**<br>
 
-* [Brief Introduction for Contract trading REST API]
-(https://github.com/BitgetLimited/API_DOC/wiki/Contract_REST_introduction)<br>
+* [Brief Introduction for Contract trading REST API](https://github.com/BitgetLimited/API_DOC/wiki/Contract_REST_introduction)<br>
 * [Contract trading signature authentication (Important, please read carefully)]
 (https://github.com/BitgetLimited/API_DOC/wiki/Contract_REST_authentication)<br>
 * [Contract trading request instruction(must read)]
