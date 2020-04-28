@@ -104,8 +104,8 @@ Signature method instruction can refer to authentication part of API brief intro
 **sign**: Agreement based on Hash for user signature calculation, it uses the value of encryption result from SHA1’s SecreKey and requested parameter  
 
 > 
-**sign example**: [api example]
-(https://github.com/BitgetLimited/API_DOC/wiki/REST_authentication)
+**sign example**: 
+[api example](https://github.com/BitgetLimited/API_Docs_en/wiki/REST_authentication)
 > 
 Failed login will cause auto disconnection 
 -
