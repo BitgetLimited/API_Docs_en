@@ -2,7 +2,7 @@
  
  Docs of BitgetLimited: [wiki](https://github.com/BitgetLimited/API_Docs_en/wiki)
 
- # REST API(Market & Trade) <br>
+ # SPOT REST API(Market & Trade) <br>
  >  **Suitable for BitGet stations站**<br>
 
 * [Introduction of REST API](https://github.com/BitgetLimited/API_Docs_en/wiki/REST_introduction)<br>
