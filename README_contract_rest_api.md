@@ -2,7 +2,7 @@ Everything about apikey application and revision, please proceed to â€œAccount â
  
 
 Please refer the documents of BitgetLimited
-[wiki](https://github.com/BitgetLimited/API_DOC/wiki)
+[wiki](https://github.com/BitgetLimited/API_DOC_en/wiki)
 
 # Contract trading REST market, trading API<br>
 
