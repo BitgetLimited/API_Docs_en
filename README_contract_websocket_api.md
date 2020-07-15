@@ -7,7 +7,7 @@ WebSocket is a HTML5 new Protocol. It implements full-duplex communication betwe
 - Both client and server can actively send data to each other.
 - In order to save bandwidth and server resource, it is not necessary to create and cancel TCP request in multiple times.
 ### Strongly recommend developer to use WebSocket API to obtain market info and bid/ask market depth info etc. 
-Address：wss://contractsocketapi.thewebsocket.com/ws/v1
+Address：wss://csocketapi.bitget.com/ws/v1
 > 
 Connection instruction 
 > 
